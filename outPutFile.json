@@ -10,18 +10,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 1,
   "client" : {
@@ -34,18 +34,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 2,
   "client" : {
@@ -58,18 +58,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 3,
   "client" : {
@@ -82,18 +82,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 4,
   "client" : {
@@ -106,18 +106,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 5,
   "client" : {
@@ -130,18 +130,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 6,
   "client" : {
@@ -154,18 +154,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 7,
   "client" : {
@@ -178,18 +178,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 8,
   "client" : {
@@ -202,18 +202,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 9,
   "client" : {
@@ -226,18 +226,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 10,
   "client" : {
@@ -250,18 +250,18 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 }, {
   "ID" : 11,
   "client" : {
@@ -274,16 +274,16 @@
     "dateOfPass" : "3920-05-12 20:00:00",
     "divCode" : "100-186"
   },
-  "bills" : {
+  "bills" : [ {
     "numOfBill" : "147852369854758",
     "dateOfOpening" : "3920-05-12 20:00:00",
     "dateOfClosing" : "3920-05-12 20:00:00"
-  },
-  "bankCards" : {
+  } ],
+  "bankCards" : [ {
     "firstName" : "Иван",
     "surname" : "Иванов",
     "dateOfClosing" : "3920-05-12 20:00:00",
     "cardNum" : "7893 5421 3548 1547",
     "cvv" : 789
-  }
+  } ]
 } ]

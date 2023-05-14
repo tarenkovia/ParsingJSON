@@ -1,13 +1,14 @@
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
 public class BankClient {
     public int ID;
     public PassData client;
-    public Bills bills;
-    public BankCard bankCards;
+    public ArrayList<Bills> bills;
+    public ArrayList<BankCard> bankCards;
 
-    public BankClient(int ID, PassData client, Bills bills, BankCard bankCards){
+    public BankClient(int ID, PassData client, ArrayList<Bills> bills, ArrayList<BankCard> bankCards){
         this.ID = ID;
         this.client = client;
         this.bills = bills;
@@ -21,8 +22,12 @@ public class BankClient {
     public void printAll(){
         System.out.format("%-3.3s", ID);
         client.printAll();
-        bills.printAll();
-        bankCards.printAll();
+        for(Bills i: bills) {
+            i.printAll();
+        }
+        for(BankCard j: bankCards) {
+            j.printAll();
+        }
     }
 
 }
