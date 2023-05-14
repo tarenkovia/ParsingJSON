@@ -1,0 +1,301 @@
+[{
+    "ID" : 0,
+    "client" : {
+        "firstName" : "Фёдор",
+        "surname" : "Достоевский",
+        "secondName" : "Николаевич",
+        "dateOfBirth" : "1821-11-11 6:00:00",
+        "cityOfBirth" : "Москва",
+        "numOfPass" : 159632,
+        "dateOfPass" : "1866-11-11 6:00:00",
+        "divCode" : "100-128"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965412357",
+        "dateOfOpening" : "1845-11-11 6:00:00",
+        "dateOfClosing" : "1881-02-09 6:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Фёдор",
+         "surname" : "Достоевский",
+         "dateOfClosing" : "1881-02-09 6:00:00",
+         "cardNum" : "2222 3333 4444 5555",
+         "cvv" : 896
+    }
+},
+{
+    "ID" : 1,
+    "client" : {
+        "firstName" : "Михаил",
+        "surname" : "Лермонтов",
+        "secondName" : "Юрьевич",
+        "dateOfBirth" : "1814-10-15 7:00:00",
+        "cityOfBirth" : "Москва",
+        "numOfPass" : 159789,
+        "dateOfPass" : "1832-10-15 7:00:00",
+        "divCode" : "100-129"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965475486",
+        "dateOfOpening" : "1832-10-15 7:00:00",
+        "dateOfClosing" : "1841-07-27 7:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Михаил",
+         "surname" : "Лермонтов",
+         "dateOfClosing" : "1841-07-27 7:00:00",
+         "cardNum" : "2222 3333 4444 6666",
+         "cvv" : 897
+    }
+},
+{
+    "ID" : 2,
+    "client" : {
+        "firstName" : "Александр",
+        "surname" : "Пушкин",
+        "secondName" : "Сергеевич",
+        "dateOfBirth" : "1799-06-06 8:00:00",
+        "cityOfBirth" : "Москва",
+        "numOfPass" : 159428,
+        "dateOfPass" : "1817-06-06 8:00:00",
+        "divCode" : "100-130"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965412547",
+        "dateOfOpening" : "1817-06-06 8:00:00",
+        "dateOfClosing" : "1837-02-10 8:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Александр",
+         "surname" : "Пушкин",
+         "dateOfClosing" : "1837-02-10 8:00:00",
+         "cardNum" : "2222 3333 4444 7777",
+         "cvv" : 898
+    }
+},
+{
+    "ID" : 3,
+    "client" : {
+        "firstName" : "Николай",
+        "surname" : "Гоголь",
+        "secondName" : "Васильевич",
+        "dateOfBirth" : "1809-03-20 9:00:00",
+        "cityOfBirth" : "Великие Сорочинцы",
+        "numOfPass" : 159153,
+        "dateOfPass" : "1849-03-20 9:00:00",
+        "divCode" : "100-131"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965478536",
+        "dateOfOpening" : "1849-03-20 9:00:00",
+        "dateOfClosing" : "1852-02-21 9:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Николай",
+         "surname" : "Гоголь",
+         "dateOfClosing" : "1852-02-21 9:00:00",
+         "cardNum" : "2222 3333 4444 8888",
+         "cvv" : 899
+    }
+},
+{
+    "ID" : 4,
+    "client" : {
+        "firstName" : "Иван",
+        "surname" : "Гончаров",
+        "secondName" : "Александрович",
+        "dateOfBirth" : "1812-06-18 10:00:00",
+        "cityOfBirth" : "Ульяновск",
+        "numOfPass" : 159785,
+        "dateOfPass" : "1852-06-18 10:00:00",
+        "divCode" : "100-132"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965415987",
+        "dateOfOpening" : "1852-06-18 10:00:00",
+        "dateOfClosing" : "1891-09-15 10:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Иван",
+         "surname" : "Гончаров",
+         "dateOfClosing" : "1891-09-15 10:00:00",
+         "cardNum" : "2222 3333 4444 9999",
+         "cvv" : 900
+    }
+},
+{
+    "ID" : 5,
+    "client" : {
+        "firstName" : "Лев",
+        "surname" : "Толстой",
+        "secondName" : "Николаевич",
+        "dateOfBirth" : "1828-09-09 11:00:00",
+        "cityOfBirth" : "Ясная поляна",
+        "numOfPass" : 159203,
+        "dateOfPass" : "1868-09-09 11:00:00",
+        "divCode" : "100-133"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965436987",
+        "dateOfOpening" : "1868-09-09 11:00:00",
+        "dateOfClosing" : "1910-11-20 11:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Лев",
+         "surname" : "Толстой",
+         "dateOfClosing" : "1910-11-20 11:00:00",
+         "cardNum" : "2222 1111 4444 9999",
+         "cvv" : 901
+    }
+},
+{
+    "ID" : 6,
+    "client" : {
+        "firstName" : "Николай",
+        "surname" : "Карамзин",
+        "secondName" : "Михайлович",
+        "dateOfBirth" : "1766-12-12 12:00:00",
+        "cityOfBirth" : "Карамзинка",
+        "numOfPass" : 157853,
+        "dateOfPass" : "1806-12-12 12:00:00",
+        "divCode" : "100-134"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578965451248",
+        "dateOfOpening" : "1806-12-12 12:00:00",
+        "dateOfClosing" : "1826-05-22 12:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Николай",
+         "surname" : "Карамзин",
+         "dateOfClosing" : "1826-05-22 12:00:00",
+         "cardNum" : "2222 2222 4444 9999",
+         "cvv" : 902
+    }
+},
+{
+    "ID" : 7,
+    "client" : {
+        "firstName" : "Михаил",
+        "surname" : "Салтыков-Щедрин",
+        "secondName" : "Евграфович",
+        "dateOfBirth" : "1826-01-15 13:00:00",
+        "cityOfBirth" : "Спас-Угол",
+        "numOfPass" : 178953,
+        "dateOfPass" : "1866-01-15 13:00:00",
+        "divCode" : "100-135"
+    },
+    "bills" : {
+        "numOfBill" : "78963214578154261248",
+        "dateOfOpening" : "1866-01-15 13:00:00",
+        "dateOfClosing" : "1889-04-28 13:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Михаил",
+         "surname" : "Салтыков-Щедрин",
+         "dateOfClosing" : "1889-04-28 13:00:00",
+         "cardNum" : "2222 3333 4444 9999",
+         "cvv" : 903
+    }
+},
+{
+    "ID" : 8,
+    "client" : {
+        "firstName" : "Иван",
+        "surname" : "Тургенев",
+        "secondName" : "Сергеевич",
+        "dateOfBirth" : "1818-11-09 14:00:00",
+        "cityOfBirth" : "Орёл",
+        "numOfPass" : 789953,
+        "dateOfPass" : "1858-11-09 14:00:00",
+        "divCode" : "100-136"
+    },
+    "bills" : {
+        "numOfBill" : "78963215962454261248",
+        "dateOfOpening" : "1858-11-09 14:00:00",
+        "dateOfClosing" : "1883-09-03 14:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Иван",
+         "surname" : "Тургенев",
+         "dateOfClosing" : "1883-09-03 14:00:00",
+         "cardNum" : "2222 4444 4444 9999",
+         "cvv" : 904
+    }
+},
+{
+    "ID" : 9,
+    "client" : {
+        "firstName" : "Антон",
+        "surname" : "Чехов",
+        "secondName" : "Павлович",
+        "dateOfBirth" : "1860-01-29 15:00:00",
+        "cityOfBirth" : "Орёл",
+        "numOfPass" : 789123,
+        "dateOfPass" : "1900-01-29 15:00:00",
+        "divCode" : "100-137"
+    },
+    "bills" : {
+        "numOfBill" : "15962215962454261248",
+        "dateOfOpening" : "1900-01-29 15:00:00",
+        "dateOfClosing" : "1904-07-15 15:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Антон",
+         "surname" : "Чехов",
+         "dateOfClosing" : "1904-07-15 15:00:00",
+         "cardNum" : "2222 5555 4444 9999",
+         "cvv" : 905
+    }
+},
+{
+    "ID" : 10,
+    "client" : {
+        "firstName" : "Александр",
+        "surname" : "Грибоедов",
+        "secondName" : "Сергеевич",
+        "dateOfBirth" : "1795-01-15 16:00:00",
+        "cityOfBirth" : "Санкт-Петербург",
+        "numOfPass" : 787533,
+        "dateOfPass" : "1813-01-15 16:00:00",
+        "divCode" : "100-138"
+    },
+    "bills" : {
+        "numOfBill" : "15962125862454261248",
+        "dateOfOpening" : "1813-01-15 16:00:00",
+        "dateOfClosing" : "1829-02-11 16:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Александр",
+         "surname" : "Грибоедов",
+         "dateOfClosing" : "1829-02-11 16:00:00",
+         "cardNum" : "2222 6666 4444 9999",
+         "cvv" : 906
+    }
+},
+{
+    "ID" : 11,
+    "client" : {
+        "firstName" : "Иван",
+        "surname" : "Крылов",
+        "secondName" : "Андреевич",
+        "dateOfBirth" : "1769-02-13 17:00:00",
+        "cityOfBirth" : "Санкт-Петербург",
+        "numOfPass" : 781243,
+        "dateOfPass" : "1809-02-13 17:00:00",
+        "divCode" : "100-139"
+    },
+    "bills" : {
+        "numOfBill" : "15158745862454261248",
+        "dateOfOpening" : "1809-02-13 17:00:00",
+        "dateOfClosing" : "1844-11-21 17:00:00"
+    },
+    "bankCards" : {
+         "firstName" : "Иван",
+         "surname" : "Крылов",
+         "dateOfClosing" : "1844-11-21 17:00:00",
+         "cardNum" : "2222 7777 4444 9999",
+         "cvv" : 907
+    }
+}
+]
